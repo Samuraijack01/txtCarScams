@@ -1,0 +1,11 @@
+#picture{
+    height: 50px;
+    width: 50 px;
+    display: block;
+    margin: auto;
+    margin-left: 50px;
+}
+
+#picture-container{
+    background-color: #2667FF
+}

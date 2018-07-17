@@ -1,0 +1,25 @@
+#picture{
+height: 50px;
+width: 50 px;
+display: block;
+margin: auto;
+
+}
+/* In this page you will put in your car details in order to narrow down and find out what the problem with your car is. */
+
+.home{
+    position: absolute;
+}
+
+/*width: 153px;
+height: 253px;
+left: 1202px;
+top: 655px;
+
+font-family: Rosario;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+
+color: #FFFFFF;*/

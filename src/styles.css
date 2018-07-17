@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline;
+    margin-right: 2em;
+    text-align: right;
+}
+
+.tabs{
+    display: inline;
+    text-align: right;
+    height: 50%;
+}
